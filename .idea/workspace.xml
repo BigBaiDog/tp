@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8c66de-5c06-443b-971b-cbc73ac507d3" name="变更" comment="add" />
+    <list default="true" id="1c8c66de-5c06-443b-971b-cbc73ac507d3" name="变更" comment="add">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leanengine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/todos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/todos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +55,7 @@
       <workItem from="1661065393092" duration="46000" />
       <workItem from="1661065443524" duration="44000" />
       <workItem from="1661065490953" duration="11000" />
-      <workItem from="1661065512457" duration="2043000" />
+      <workItem from="1661065512457" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1661065149794</created>
