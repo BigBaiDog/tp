@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c8c66de-5c06-443b-971b-cbc73ac507d3" name="变更" comment="add" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DKX8gKYwHQfYVKUrUUCUxqXBgx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1c8c66de-5c06-443b-971b-cbc73ac507d3" name="变更" comment="" />
+      <created>1660448591748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660448591748</updated>
+      <workItem from="1660448594527" duration="3592000" />
+      <workItem from="1661007696526" duration="57000" />
+      <workItem from="1661008039308" duration="18000" />
+      <workItem from="1661062002783" duration="1431000" />
+      <workItem from="1661064676532" duration="340000" />
+      <workItem from="1661065113365" duration="176000" />
+      <workItem from="1661065313781" duration="52000" />
+      <workItem from="1661065369813" duration="12000" />
+      <workItem from="1661065393092" duration="46000" />
+      <workItem from="1661065443524" duration="44000" />
+      <workItem from="1661065490953" duration="11000" />
+      <workItem from="1661065512457" duration="2043000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1661065149794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065149794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1661065641828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065641828</updated>
+    </task>
+    <task id="LOCAL-00003" summary="php">
+      <created>1661065720465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065720465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="php">
+      <created>1661065766350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065766350</updated>
+    </task>
+    <task id="LOCAL-00005" summary="php">
+      <created>1661065927117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065927117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="php">
+      <created>1661066298157</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661066298157</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除">
+      <created>1661066669047</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661066669047</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add">
+      <created>1661066721930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661066721930</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="php" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+</project>
